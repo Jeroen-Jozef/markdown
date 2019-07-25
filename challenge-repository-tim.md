@@ -27,4 +27,4 @@ Don't let me go somewhere I haven't been to before without google maps. Last tim
 ### TL;DR
 Hand over the damn burrito.
 
-<<[previous](https://github.com/Manny-Apsel/challenge-repository-Manny/blob/master/README.md) || Tim Broos || [next](http://github.com)>>
+<<[previous](https://github.com/Manny-Apsel/challenge-repository-Manny/blob/master/README.md) || Tim Broos || [next](https://github.com/infocoms/challenge-markdown#kevin-comyn)>>
